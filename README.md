@@ -14,25 +14,38 @@
 
 <br/><br/>
 
-<!-- ANIMATED DEVELOPER CODING WORKSPACE -->
+<!-- 🚀 ULTRA ANIMATED DEVELOPER WORKSPACE -->
 <div align="center">
 
+  <!-- Main Animated Coding Scene -->
   <img
-    src="https://cdnl.iconscout.com/lottie/premium/thumb/web-developer-animation-gif-download-3645913.gif"
-    width="95%"
-    alt="Animated Developer Coding on Laptop with Programming Screens"
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="100%"
+    alt="Developer actively coding on laptop"
   />
 
   <br/>
 
-  <h3>💻 Turning Ideas into Code | Building the Future with Technology</h3>
+  <!-- Animated Welcome Text -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=850&lines=Welcome+to+My+Digital+Workspace!;Ideas+%E2%86%92+Code+%E2%86%92+Innovation;Building+the+Future+One+Line+at+a+Time"
+    alt="Animated Developer Welcome"
+  />
 
-  <p>
-    <code>Full Stack Development</code> •
-    <code>Artificial Intelligence</code> •
-    <code>Web Development</code> •
-    <code>Creative Innovation</code>
-  </p>
+  <br/><br/>
+
+  <!-- Floating Development Technologies -->
+  <img src="https://img.shields.io/badge/</>-Full_Stack_Development-0D1117?style=for-the-badge&logo=code&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/AI-Machine_Learning-0D1117?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/WEB-Creative_Development-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+  <br/><br/>
+
+  <!-- Animated Coding Status -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=600&color=00FF99&center=true&vCenter=true&width=650&lines=%3E+Initializing+Developer+Mode...;%3E+Writing+Clean+Code...;%3E+Building+Creative+Projects...;%3E+Deploying+New+Ideas...;%3E+Innovation+In+Progress+%E2%9C%93"
+    alt="Animated Coding Status"
+  />
 
 </div>
 
