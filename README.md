@@ -4,25 +4,29 @@
 
 <div align="center">
 
-# 👋 Namaskara! I'm Darshan Badiger
+# 👋 ನಮಸ್ಕಾರ! I'm Darshan Badiger
 
 ### 🚀 Full Stack Developer | AI & Data Science Explorer | MCA Student
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Data+Science+%26+Machine+Learning;Turning+Ideas+Into+Reality" alt="Animated Introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D9A6&center=true&vCenter=true&width=750&height=60&lines=Welcome+to+Darshan+Badiger's+Profile!;Hello+Developers!+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Explorer;Turning+Ideas+Into+Reality;Innovating+Through+Code!" alt="Animated Welcome"/>
 
 <br/><br/>
 
-<!-- Animated Developer Banner -->
+<!-- ANIMATED HUMAN CODING SCENE -->
 
-<img width="90%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding Animation"/>
+<img width="95%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Programmer Working on Computer"/>
+
+<br/>
+
+### 💻 Welcome to My Digital Workspace!
+
+*Where creativity meets code and innovation begins.*
 
 <br/><br/>
 
-<!-- Social Links -->
+<!-- SOCIAL LINKS -->
 
 <a href="mailto:darshanbadiger872@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -36,8 +40,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
 </div>
 
 ---
@@ -50,9 +52,9 @@
 - 🌐 Live Portfolio: [darshan-animated-portfolio-main.vercel.app](https://darshan-animated-portfolio-main.vercel.app/)
 - 💼 LinkedIn: [darshanbadiger18](https://www.linkedin.com/in/darshanbadiger18)
 - 🛠️ Interested in building scalable web applications and intelligent solutions.
-- 📊 Exploring data analytics, AI innovations and emerging technologies.
+- 📊 Exploring Data Analytics, AI innovations and emerging technologies.
 - 🎯 Open to exciting collaborations, internships and innovative projects.
-- 📫 How to reach me: **darshanbadiger872@gmail.com**
+- 📫 How to reach me: [darshanbadiger872@gmail.com](mailto:darshanbadiger872@gmail.com)
 
 ---
 
@@ -60,12 +62,12 @@
 
 | Category | Technologies |
 |:---|:---|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **AI & Data Science** | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **AI & Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 | **Deployment Platforms** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
 
 ---
@@ -74,37 +76,41 @@
 
 <div align="center">
 
-<!-- GitHub Overview -->
+### ⚡ Developer Performance Dashboard
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics"/>
-
-<!-- Most Used Languages -->
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1500&color=70A5FD&center=true&vCenter=true&width=650&height=40&lines=My+Journey+Through+Code+%26+Contributions;Consistency+Creates+Great+Developers!" alt="Statistics Heading"/>
 
 <br/><br/>
 
-<!-- GitHub Streak -->
+<!-- MAIN STATISTICS CARD -->
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Overview"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+</a>
 
 <br/><br/>
 
-<!-- Contribution Activity Graph -->
+<!-- CONTRIBUTION STREAK CARD -->
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+### 🔥 Consistency & Contribution Streak
 
-</div>
+<img width="80%" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak Statistics"/>
 
----
+<br/><br/>
 
-## 💻 Coding Mode: Always Learning
+<!-- CONTRIBUTION GRAPH -->
 
-<div align="center">
+### 📈 My Coding Activity
 
-<img width="80%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding Animation"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b27&color=70a5fd&line=00d9a6&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
 
-### "Code. Create. Innovate. Repeat."
+<br/>
+
+### 💡 Every Contribution Tells a Story!
 
 </div>
 
@@ -114,7 +120,7 @@
 
 <div align="center">
 
-### Let's Connect, Collaborate & Build Something Amazing! 🚀
+### 🤝 Let's Connect, Collaborate & Build Something Amazing!
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="110" alt="Coffee Cup"/>
 
@@ -130,13 +136,20 @@ Let's discuss technology, exchange ideas and build something meaningful together
 <tr>
 <td align="center" width="35%">
 
-### 🤝 Let's Collaborate
+### 🚀 Let's Collaborate
 
 <a href="mailto:darshanbadiger872@gmail.com?subject=Project%20Collaboration%20Request&body=Hi%20Darshan,%0A%0AI%20would%20like%20to%20discuss%20a%20project%20collaboration%20with%20you.%0A%0AProject%20Idea:%0A%0ATechnologies:%0A%0ALet's%20connect!">
 <img src="https://img.shields.io/badge/START_A_PROJECT-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Start a Project"/>
 </a>
 
+<br/><br/>
+
+<a href="mailto:darshanbadiger872@gmail.com?subject=Tech%20Discussion%20Request&body=Hi%20Darshan,%0A%0AI%20would%20like%20to%20discuss%20some%20technology%20ideas%20with%20you.%0A%0ATopic:%0A%0AMessage:">
+<img src="https://img.shields.io/badge/TECH_DISCUSSION-0A66C2?style=for-the-badge&logo=googlechat&logoColor=white" alt="Tech Discussion"/>
+</a>
+
 </td>
+
 <td align="left" valign="middle">
 
 ### 👨‍💻 Developer Information
@@ -169,11 +182,29 @@ Let's discuss technology, exchange ideas and build something meaningful together
 
 <br/><br/>
 
-**Thanks for visiting my GitHub profile!**
+**Thanks for visiting my GitHub profile! ❤️**
 
 ⭐ Feel free to explore my repositories and connect with me.
 
-### 🚀 Keep Learning | Keep Building | Keep Innovating
+</div>
+
+---
+
+## ✨ A Few Words to Remember
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=00D9A6&center=true&vCenter=true&width=750&height=100&lines=Great+Things+Take+Time.+Keep+Building.;Your+Only+Competition+Is+Who+You+Were+Yesterday.;Think+Big.+Start+Small.+Build+Something+Extraordinary.;Code+Today.+Innovate+Tomorrow.+Inspire+Forever." alt="Motivational Quotes"/>
+
+<br/><br/>
+
+### 🚀 "Success is built one line of code, one idea and one step at a time."
+
+**Dream Big | Stay Curious | Keep Creating**
+
+<br/>
+
+### 🙏 ಧನ್ಯವಾದಗಳು! (Thank You!)
 
 </div>
 
