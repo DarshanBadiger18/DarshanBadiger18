@@ -14,31 +14,33 @@
 
 <br/><br/>
 
-<!-- 🚀 CINEMATIC DEVELOPER WORKSPACE -->
+<!-- ANIMATED DEVELOPER CODING WORKSPACE -->
 <div align="center">
 
   <img
-    src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif"
+    src="https://cdnl.iconscout.com/lottie/premium/thumb/web-developer-animation-gif-download-3645913.gif"
     width="95%"
-    alt="Animated Developer Coding Workspace"
+    alt="Animated Developer Coding on Laptop with Programming Screens"
   />
 
-  <br><br>
+  <br/>
 
-  <h2>⚡ DREAM • DESIGN • DEVELOP • DEPLOY ⚡</h2>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Reality;Building+Modern+Web+Experiences;Exploring+AI+%26+Machine+Learning;Debugging+Today%2C+Innovating+Tomorrow" />
-
-  <br>
+  <h3>💻 Turning Ideas into Code | Building the Future with Technology</h3>
 
   <p>
-    <code>💻 Full Stack Development</code>
-    <code>🤖 Artificial Intelligence</code>
-    <code>🌐 Web Innovation</code>
-    <code>🚀 Future Technology</code>
+    <code>Full Stack Development</code> •
+    <code>Artificial Intelligence</code> •
+    <code>Web Development</code> •
+    <code>Creative Innovation</code>
   </p>
 
 </div>
+
+ 
+
+  <h2>⚡ DREAM • DESIGN • DEVELOP • DEPLOY ⚡</h2>
+
+
 
 ### 💻 Welcome to My Digital Workspace!
 
